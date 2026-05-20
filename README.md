@@ -84,6 +84,18 @@ ai-sec-scanner/
 ```
 ---
 
+---
+
+## Tech Stack
+
+-Python 3
+-aiohttp
+-asyncio
+-regex engine
+-optional LLM integration
+
+---
+
 ##  Motivation
 
 This project was built to explore:
@@ -92,15 +104,6 @@ This project was built to explore:
 -Web security fundamentals
 -Automation of reconnaissance tasks
 -Integration of AI into security tooling
-
----
-
-## Tech Stack
-Python 3
-aiohttp
-asyncio
-regex engine
-optional LLM integration
 
 ---
 
