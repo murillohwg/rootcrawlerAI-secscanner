@@ -88,11 +88,7 @@ ai-sec-scanner/
 
 ## Tech Stack
 
--Python 3
--aiohttp
--asyncio
--regex engine
--optional LLM integration
+Python 3 - aiohttp - asyncio - regex engine - optional LLM integration
 
 ---
 
