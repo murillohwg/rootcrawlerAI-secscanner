@@ -18,14 +18,6 @@ It combines:
 
 ---
 
-## Demo
-
-.................
-.................
-.................
-
----
-
 ## Features
 
 - Asynchronous endpoint discovery (high performance)
