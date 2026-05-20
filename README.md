@@ -37,7 +37,7 @@ It combines:
 ## Installation
 
 ```bash
-git clone https://github.com/murillohwg/ai-sec-scanner.git
+git clone https://github.com/murillohwg/rootcrawlerAI-secscanner.git
 cd ai-sec-scanner
 pip install -r requirements.txt 
 ```
