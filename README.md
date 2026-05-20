@@ -84,15 +84,14 @@ ai-sec-scanner/
 ```
 ---
 
-## Disclaimer
+##  Motivation
 
-This tool is intended for:
+This project was built to explore:
 
-Educational purposes
-Authorized security testing
-Personal research
-
-Do not use against systems without explicit permission.
+-Real-world asynchronous programming
+-Web security fundamentals
+-Automation of reconnaissance tasks
+-Integration of AI into security tooling
 
 ---
 
@@ -105,11 +104,14 @@ optional LLM integration
 
 ---
 
-##  Motivation
+## Disclaimer
 
-This project was built to explore:
+This tool is intended for:
 
--Real-world asynchronous programming
--Web security fundamentals
--Automation of reconnaissance tasks
--Integration of AI into security tooling
+Educational purposes
+Authorized security testing
+Personal research
+
+Do not use against systems without explicit permission.
+
+---
