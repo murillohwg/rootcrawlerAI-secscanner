@@ -59,8 +59,7 @@ pip install -r requirements.txt
 
 ## Project Architecture
 
-[architecture](images/architecture.png)
-
+![ARCHITECTURE](images/architecture.png)
 
 ---
 
